@@ -1,0 +1,6 @@
+#ifndef V64_ENGINE_V64ENGINE_H
+#define V64_ENGINE_V64ENGINE_H
+
+void hello();
+
+#endif //V64_ENGINE_V64ENGINE_H

@@ -1,0 +1,9 @@
+# Build/Debug directory
+/cmake-build-debug
+/build
+
+# IDE and Code Editors
+/.idea
+/.vs
+/.vscode
+/.awcache
